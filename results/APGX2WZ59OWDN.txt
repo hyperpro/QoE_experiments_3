@@ -1,0 +1,20 @@
+5,1,3,2
+1,2,3,4
+31852,17388,18116,17232
+14.309,17.217,17.792,17.111
+14198,11193,7866,5134
+14.062,10.933,6.592,5.019
+APGX2WZ59OWDN
+Desktop
+25 - 31
+WiFi
+Quality damage is more annoying to me when it's at the beginning of the video because it makes me think the whole video will be bad quality and I often just close out of the video instead of watching it. And the instructions and experiment guidelines were clear to me.
+Firefox
+24.631
+15.894
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,4,4
