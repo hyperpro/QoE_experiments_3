@@ -1,0 +1,20 @@
+5,1,3,4
+1,2,3,4
+54127,30267,22470,21197
+27.566,28.71,20.865,19.323
+38369,11556,22752,11155
+36.571,9.945,16.686,9.391
+A2XI3DX3IJ1TAV
+Desktop
+39 - 45
+Cable network
+Yes the guidelines were very clear.  In one case, the quality was low, ie I could see the pixels (Box), which really irritate while watching. As well, video passing affects the flow of interest.
+Firefox
+39.149
+20.634
+1,2,1,1
+1,1,1,1
+0,1,0,0
+0,0,0,0
+0,0,0,0
+3,4,4,4

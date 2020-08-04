@@ -1,0 +1,20 @@
+5,1,1,1
+1,2,3,4
+42176,20091,74734,32159
+21.734,18.777,72.10300000000001,30.841
+20266,9897,79210,13559
+18.947,8.579,68.402,12.253
+A2YHSU2IJZ9J14
+Desktop
+39 - 45
+Other
+The buffering pause was almost 3 seconds long and very disruptive, strongly affected the video quality.
+Firefox
+37.904
+14.654
+1,1,9,4
+1,1,8,3
+0,0,20,15
+0,0,0,0
+0,0,1,0
+2,5,4,4

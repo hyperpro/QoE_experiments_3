@@ -1,0 +1,20 @@
+5,1,4,5
+1,2,3,4
+51332,133093,20896,21202
+21.991,132.384,20.285,20.563
+16947,13310,10787,18167
+16.148,12.456,8.1,17.435
+A2SWQM5X54P1O5
+Laptop
+32 - 38
+WiFi
+I don't think it had an effect on me. The guideline was clear to me and it wasn't confusing. 
+Chrome
+20.557
+25.897
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,5,4

@@ -1,0 +1,20 @@
+5,1,3,4
+1,2,3,4
+42124,28852,26082,28246
+19.784,21.577,24.645,26.948
+11731,23428,11410,7663
+10.565,22.632,7.623,6.719
+A2M59R65OZRNNX
+Laptop
+25 - 31
+WiFi
+Quality damage affects the video when I cannot see it clearly. The guidelines were clear and I was not confused about the attention check. 
+Chrome
+23.367
+15.084
+1,2,1,1
+1,2,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,2,2

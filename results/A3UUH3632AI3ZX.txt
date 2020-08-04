@@ -1,0 +1,20 @@
+5,1,3,3
+1,2,4,3
+36283,17920,17656,18619
+13.705,17.487,17.205,18.123
+4109,2996,5118,7621
+3.628,2.541,4.667,5.747
+A3UUH3632AI3ZX
+Desktop
+32 - 38
+Cable network
+It is going to be slightly annoying no matter where the pause happens
+Chrome
+10.177
+3.001
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,4,4

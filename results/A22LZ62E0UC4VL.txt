@@ -1,0 +1,20 @@
+5,1,4,5
+1,2,3,4
+33321,8960,20422,20138
+20.293,8.42,19.842,19.602
+36192,12130,5964,3435
+35.75,11.526,4.035,3.167
+A22LZ62E0UC4VL
+Laptop
+32 - 38
+WiFi
+Sometimes it makes me feel that the quality is inferior.  It gives me an overall bad impression.
+Chrome
+15.024
+10.284
+1,2,1,1
+1,2,1,1
+0,10,0,0
+0,0,0,0
+0,0,0,0
+2,2,2,2

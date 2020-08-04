@@ -1,0 +1,20 @@
+5,1,2,3
+1,2,4,3
+138819,36971,74580,50440
+47.3,34.21,71.745,47.731
+37980,33249,30268,93980
+35.362,30.241,27.453,83.748
+A9EVF0SO2IUJ0
+Laptop
+32 - 38
+Cable network
+The last two video' (video 3 and 4) have better resolution, but video pause (more than 1 sec) occurring at the middle of the 3rd video and more pause occurring in 4th video than 3rd. Interesting survey and clear instruction. No issue regarding grading or the attention check.
+Chrome
+39.763
+46.573
+1,1,4,2
+1,1,4,2
+0,0,3,1
+0,0,0,0
+0,0,0,0
+2,5,4,4

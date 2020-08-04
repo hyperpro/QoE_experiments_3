@@ -1,0 +1,20 @@
+5,1,5,5
+1,2,3,4
+80411,22273,20898,22152
+19.33,21.64,20.328,21.51
+25874,19492,20310,10538
+25.311,18.938,17.645,9.969
+A2FBT0BSFOV91D
+Desktop
+46 - 52
+WiFi
+I rated each video based on two criteria : whether the resolution was significantly reduced and how long each video was paused. Longer pauses and lower resolutions got lower ratings. Shorter pauses and shorter resolution switches received better rankings. The experiment guideline was clear and easy to follow, thank you for the experiment!
+Chrome
+42.325
+57.762
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,2,2

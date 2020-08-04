@@ -1,0 +1,20 @@
+5,1,2,2
+1,2,3,4
+62085,25635,26352,22691
+29.754,24.056,24.844,21.095
+27037,21041,13484,12451
+25.448,19.513,8.178,10.897
+A1O0B8163G7W0N
+Laptop
+32 - 38
+WiFi
+I am clear in grading and usually while watching a videos if there any quality issues it will be an annoying experience.
+Chrome
+26.22
+24.036
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,5,5

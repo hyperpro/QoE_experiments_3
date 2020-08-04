@@ -1,0 +1,20 @@
+5,1,2,2
+1,2,3,4
+52873,21696,24279,22796
+22.235,20.521,23.178,21.65
+15720,13963,8681,5171
+14.367,12.841,5.111,3.97
+A1CHC8M7CWC254
+Laptop
+25 - 31
+WiFi
+it gets annoying because when i focus on the videos i want them to be as good quality and smooth as possible
+Chrome
+25.243
+19.594
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,4,4

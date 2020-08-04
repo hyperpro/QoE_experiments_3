@@ -1,0 +1,20 @@
+5,1,2,2
+1,2,4,3
+239111,57552,121705,88368
+85.93700000000001,54.23,81.043,47.837
+73912,38913,12385,46417
+67.912,36.26,10.277,38.198
+A2WTDVHVVORNDU
+Desktop
+39 - 45
+Cable network
+Quality damage sometimes affect the watching experience. In case of live video like live matches it affects a lot. I can miss the intersting moments or can not feel the actual experience by its resolution drop or video pause. But in case of old previously watched videos it does not effects so much.
+Firefox
+148.037
+43.281
+4,3,1,1
+4,3,1,1
+2,2,0,0
+0,0,1,1
+1,0,0,0
+2,5,4,4

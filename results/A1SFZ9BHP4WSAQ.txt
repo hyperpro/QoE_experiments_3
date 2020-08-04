@@ -1,0 +1,20 @@
+5,1,2,2
+1,2,3,4
+43632,22581,20563,20080
+19.621,21.181,20.161,19.673
+34484,14425,16541,16031
+34.087,14.002,14.407,15.39
+A1SFZ9BHP4WSAQ
+Laptop
+32 - 38
+WiFi
+the quality issues were most annoying around movement, particularly with freezing issues
+Chrome
+38.503
+21.146
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,5,4,4

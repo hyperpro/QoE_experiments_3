@@ -1,0 +1,20 @@
+5,1,2,2
+1,2,4,3
+40158,18686,33111,31119
+21.493,17.951,32.364,30.429
+15954,4773,5128,7885
+14.84,3.896,4.641,5.534
+A17ZMF7GGP6HKO
+Desktop
+25 - 31
+WiFi
+A long pause in the middle of the video is most annoying because it destroys immersion. If it was at the beginning, I'd think it was just buttering and it would be easier to forget about if the rest of the video is smooth. Long pauses are much more painful than resolution changes though I did not notice resolution changes in the videos after the training ones. The study was a little confusing because the video pauses have a spinner in the test videos but no spinner in the training videos. At first I thought this was because of my connection, but I noticed the scrubber was still moving so I confirmed it was intentional.
+Chrome
+12.94
+15.342
+1,1,2,3
+1,1,1,2
+0,0,2,4
+0,0,0,0
+0,0,0,0
+2,5,4,4

@@ -1,0 +1,20 @@
+5,1,4,4
+1,2,3,4
+53384,23310,42429,93389
+17.937,21.569,40.733,50.172
+25460,15520,47722,24454
+23.703,13.814,15.261,22.79
+A2UTHXLZL8TNBK
+Desktop
+25 - 31
+Cable network
+quality was good but not the best, but the video pauses for a moment 
+Chrome
+80.234
+27.373
+1,1,2,2
+1,1,2,2
+0,0,1,0
+0,0,0,0
+0,0,0,0
+2,5,4,4

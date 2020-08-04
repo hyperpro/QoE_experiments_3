@@ -1,0 +1,20 @@
+5,1,1,1
+1,2,3,4
+52140,29405,30579,31240
+25.534,27.134,28.534,28.924
+10307,26728,10366,8309
+8.099,24.385,4.751,6.34
+A1DOJTVB7GXJH7
+Laptop
+32 - 38
+Cable network
+The experiment guideline was clear and the low quality video decrease interest of watching video. 
+Chrome
+16.887
+18.441
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+2,4,4,4
